@@ -1,0 +1,271 @@
+# depslib dependency file v1.0
+1654908874 source:c:\users\octavio\desktop\octavio\utn oti (no borrar)\programación y laboratorio\trabajo final menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+
+1654458852 c:\users\octavio\desktop\octavio\utn oti (no borrar)\programación y laboratorio\trabajo final menu\clientes.h
+
+1654643236 source:c:\users\octavio\desktop\octavio\utn oti (no borrar)\programación y laboratorio\trabajo final menu\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+
+1654459208 source:c:\users\octavio\desktop\octavio\utn oti (no borrar)\programación y laboratorio\trabajo final menu\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+
+1654460020 c:\users\octavio\desktop\octavio\utn oti (no borrar)\programación y laboratorio\trabajo final menu\consumos.h
+
+1655581526 source:c:\users\octavio\desktop\validaciones alan\trabajo final menu\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+
+1654458852 c:\users\octavio\desktop\validaciones alan\trabajo final menu\clientes.h
+
+1654459208 source:c:\users\octavio\desktop\validaciones alan\trabajo final menu\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+
+1654460020 c:\users\octavio\desktop\validaciones alan\trabajo final menu\consumos.h
+
+1655611416 source:c:\users\octavio\desktop\validaciones alan\trabajo final menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655499956 c:\users\octavio\desktop\validaciones alan\trabajo final menu\menu.h
+
+1655499943 source:c:\users\octavio\desktop\validaciones alan\trabajo final menu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655698821 source:c:\users\octavio\desktop\trabajo final grupo\trabajo final menu\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655683243 c:\users\octavio\desktop\trabajo final grupo\trabajo final menu\clientes.h
+
+1655779832 source:c:\users\octavio\desktop\trabajo final grupo\trabajo final menu\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655773360 c:\users\octavio\desktop\trabajo final grupo\trabajo final menu\consumos.h
+
+1655779391 source:c:\users\octavio\desktop\trabajo final grupo\trabajo final menu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655679775 c:\users\octavio\desktop\trabajo final grupo\trabajo final menu\menu.h
+
+1655779832 source:c:\users\octavio\desktop\trabajo final grupo\trabajo final menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"clientes.h"
+	"consumos.h"
+
+1655844475 source:c:\users\win10\desktop\programación\programacion - laboratorio 1\tp final\trabajo completo\trabajo final menu\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655683243 c:\users\win10\desktop\programación\programacion - laboratorio 1\tp final\trabajo completo\trabajo final menu\clientes.h
+
+1655842949 c:\users\win10\desktop\programación\programacion - laboratorio 1\tp final\trabajo completo\trabajo final menu\consumos.h
+
+1655679775 c:\users\win10\desktop\programación\programacion - laboratorio 1\tp final\trabajo completo\trabajo final menu\menu.h
+
+1655844934 source:c:\users\win10\desktop\programación\programacion - laboratorio 1\tp final\trabajo completo\trabajo final menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"clientes.h"
+	"consumos.h"
+
+1655845440 source:c:\users\win10\desktop\programación\programacion - laboratorio 1\tp final\trabajo completo\trabajo final menu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655846339 source:c:\users\win10\desktop\programación\programacion - laboratorio 1\tp final\trabajo completo\trabajo final menu\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655844475 source:c:\users\octavio\desktop\nueva carpeta\trabajo completo\trabajo final menu\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655683243 c:\users\octavio\desktop\nueva carpeta\trabajo completo\trabajo final menu\clientes.h
+
+1655854019 c:\users\octavio\desktop\nueva carpeta\trabajo completo\trabajo final menu\consumos.h
+
+1655679775 c:\users\octavio\desktop\nueva carpeta\trabajo completo\trabajo final menu\menu.h
+
+1655855438 source:c:\users\octavio\desktop\nueva carpeta\trabajo completo\trabajo final menu\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655855018 source:c:\users\octavio\desktop\nueva carpeta\trabajo completo\trabajo final menu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655854908 source:c:\users\octavio\desktop\nueva carpeta\trabajo completo\trabajo final menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"clientes.h"
+	"consumos.h"
+
+1655844475 source:c:\users\win10\desktop\trabajo final\trabajo final menu\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655683243 c:\users\win10\desktop\trabajo final\trabajo final menu\clientes.h
+
+1655854019 c:\users\win10\desktop\trabajo final\trabajo final menu\consumos.h
+
+1655679775 c:\users\win10\desktop\trabajo final\trabajo final menu\menu.h
+
+1655855438 source:c:\users\win10\desktop\trabajo final\trabajo final menu\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1655854908 source:c:\users\win10\desktop\trabajo final\trabajo final menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"clientes.h"
+	"consumos.h"
+
+1655855018 source:c:\users\win10\desktop\trabajo final\trabajo final menu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
